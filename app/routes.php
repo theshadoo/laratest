@@ -22,5 +22,5 @@ Route::get('/foo', function() {
 });
 
 Route::get('blog', function() {
-	return "bonjour mon blog";
+	return "Welcome on mon blog";
 });
